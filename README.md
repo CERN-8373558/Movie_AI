@@ -3,6 +3,8 @@
 基于 FastAPI + LangChain + Milvus 的电影智能推荐微服务。
 通过语义检索与多模态大模型实现自然语言电影推荐、图片识别电影、相似电影推荐等功能。
 网站地址： http://www.ciaohello.icu/ 测试账户： user/user
+<img width="719" height="863" alt="image" src="https://github.com/user-attachments/assets/5fa6644b-f1e6-49e7-8462-8f956ea22856" />
+
 ## 功能特性
 
 | 接口 | 说明 |
