@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 环境变量（包含密钥）
+.env
+.env.*
+
+# Milvus Lite 本地向量库（体积大且含业务数据）
+movie.db/
+movie_is_all_you_need/movie.db/
+
+# IDE 配置
+.idea/
+.vscode/
+
+# Claude 本地设置
+.claude/
+
+# 系统文件
+.DS_Store
+Thumbs.db
